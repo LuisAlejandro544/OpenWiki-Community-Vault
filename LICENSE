@@ -2,47 +2,51 @@
 
 **Versión 1.0 (Junio, 2026)**
 
-Esta Licencia de Protección regula el uso, copia, distribución, modificación y acceso a los archivos y documentos almacenados dentro de la Bóveda de Conocimiento de OpenWiki (**"OpenWiki-Community-Vault"**). Está diseñada para proteger el esfuerzo y las contribuciones de los autores humanos contra la explotación comercial injusta y el entrenamiento masivo de Inteligencias Artificiales de código cerrado, mientras se mantiene amigable, flexible y libre para fines educativos, colaborativos e investigativos.
+Esta Licencia de Protección Abierta regula el uso, copia, distribución, modificación y acceso a los archivos y documentos almacenados dentro de la Bóveda de Conocimiento de OpenWiki (**"OpenWiki-Community-Vault"**). Está diseñada para proteger el esfuerzo y las contribuciones de los autores humanos contra la explotación comercial lucrativa desleal y el entrenamiento masivo de Inteligencias Artificiales de código cerrado, mientras se mantiene amigable, flexible y libre para fines educativos, colaborativos e investigativos personales.
 
-Al acceder, descargar, crear bifurcaciones ("forks"), clonar o procesar la información de esta bóveda, usted acepta los siguientes términos y condiciones.
-
----
-
-## 1. DERECHOS AUTORIZADOS (Lo que SÍ puedes hacer)
-
-Usted es libre de realizar las siguientes acciones de manera gratuita y sin necesidad de consentimiento adicional:
-*   **Uso Humano y de Lectura**: Descargar, importar, leer y visualizar libremente cualquiera de los artículos dentro de su aplicación de OpenWiki u otros navegadores de texto.
-*   **Colaboración y Crecimiento**: Hacer un Fork (bifurcación) de este repositorio hacia su cuenta de GitHub, corregir errores, añadir nuevos capítulos o artículos de valor, y proponer cambios enviando una solicitud de unión ("Pull Request").
-*   **Uso Académico y de Investigación (Con Atribución Obligatoria)**: Investigadores académicos, estudiantes y desarrolladores independientes pueden analizar estos documentos con fines científicos o de análisis semántico, siempre y cuando se otorgue el crédito explícito (Ver Sección 3).
-*   **Distribución No Comercial**: Compartir de manera libre y no comercial los artículos de forma individual o grupal sin lucrarse de ellos de ninguna manera.
+Al acceder, descargar, crear bifurcaciones ("forks"), clonar o procesar la información de esta bóveda, usted acepta formalmente los términos y condiciones estipulados a continuación.
 
 ---
 
-## 2. RESTRICCIONES (Lo que NO puedes hacer)
+## 1. DERECHOS AUTORIZADOS, MODIFICACIÓN Y COPYLEFT (Lo que SÍ puedes hacer)
 
-Quedan expresamente prohibidos los siguientes usos a menos de contar con la aprobación previa, expresa y por escrito del creador original de OpenWiki o el mantenedor autorizado del repositorio central:
-*   **Clonación del Repositorio para Plataformas Competidoras**: No está permitido replicar la base de datos de esta bóveda en su totalidad o en partes significativas para crear proyectos competidores con suscripción de pago, con anuncios monetizados o bajo una marca comercial ajena a OpenWiki.
-*   **Venta Directa**: Distribuir el contenido con fines comerciales inmediatos o vender los artículos de la bóveda de forma directa o indirecta.
+Usted es libre de realizar de manera gratuita las siguientes acciones sin necesidad de consentimiento adicional:
+*   **Uso Humano y de Lectura**: Descargar, importar, leer y visualizar libremente cualquiera de los artículos dentro de su aplicación de OpenWiki u otros navegadores de texto de forma local y personal.
+*   **Colaboración y Crecimiento**: Hacer un Fork (bifurcación) de este repositorio hacia su cuenta personal, corregir errores, añadir nuevos capítulos o artículos de valor, y proponer cambios enviando una solicitud de unión ("Pull Request").
+*   **Modificación e Integración**: Se autoriza de forma explícita la modificación y adaptación de los archivos existentes para fines locales o comunitarios, siempre que los mismos se redistribuyan bajo estos mismos términos de la licencia LPA-1.0. No se permite sublicenciar ni cambiar la licencia original de estas obras derivadas (Efecto Copyleft / Compartir Igual).
+*   **Uso Académico y de Investigación No Comercial**: Investigadores académicos, estudiantes y desarrolladores independientes pueden analizar estos documentos con fines científicos o de análisis semántico, siempre y cuando se otorgue el crédito explícito (Ver Sección 3).
+*   **Distribución No Comercial**: Compartir de manera libre y no comercial los artículos de forma individual o grupal sin lucrarse de ellos ni monetizarlos directa o indirectamente.
+
+---
+
+## 2. RESTRICCIONES Y DEFINICIONES (Lo que NO puedes hacer)
+
+Quedan expresamente prohibidos los siguientes usos, a menos de contar con la aprobación previa, expresa y por escrito de los mantenedores y autores del repositorio central de OpenWiki:
+*   **Clonación y Replicación Sistemática**: No está permitido replicar ni duplicar la base de datos de esta bóveda en su totalidad o en **Partes Significativas** para crear proyectos competidores con suscripción de pago, con anuncios monetizados o bajo una marca comercial ajena a OpenWiki.
+    *   *Definición de "Partes Significativas"*: Se define formalmente como la extracción o duplicación de más del diez por ciento (10%) del total de los artículos contenidos en la Bóveda en un momento dado, o la extracción sistemática de más de diez (10) artículos individuales en un período continuo de treinta (30) días calendario.
+*   **Venta y Comercialización Directa**: Distribuir el contenido de la bóveda con fines comerciales lucrativos inmediatos o vender de forma directa o indirecta los artículos individuales de manera onerosa.
 
 ---
 
 ## 3. CLÁUSULA DE ATRIBUCIÓN OBLIGATORIA (Dar Créditos)
 
-Si usted utiliza parte de la información contenida en esta bóveda para cualquier estudio académico, publicación en redes sociales, posts en blogs u otra aplicación autorizada, **debe obligatoriamente proporcionar la siguiente atribución visible**:
-> *"Este recurso contiene datos protegidos procedentes de la Bóveda de Conocimiento Abierto OpenWiki-Community-Vault (https://github.com/LuisAlejandro544/OpenWiki-Community-Vault) construida de forma colaborativa por su comunidad."*
+*   **Visualización en la App**: La lectura táctil y visualización personal de los artículos dentro del lector nativo de la aplicación OpenWiki por parte de un usuario individual no requiere la inclusión obligatoria de avisos de atribución repetitivos en las pantallas secundarias de lectura.
+*   **Reuso, Redistribución y Publicación Externa**: Si usted distribuye, expone, publica, cita o utiliza de forma independiente parte de la información contenida en esta bóveda para estudio académico, posts de blogs, redes sociales u otra aplicación autorizada, **debe obligatoriamente proporcionar la siguiente atribución visible y directa**:
+    > *"Este recurso contiene datos procedentes de la Bóveda de Conocimiento Abierto OpenWiki-Community-Vault (https://github.com/LuisAlejandro544/OpenWiki-Community-Vault) construida de forma colaborativa por su comunidad."*
 
-Esto garantiza que las mentes humanas detrás de cada página siempre reciban el reconocimiento merecido.
+Esto garantiza que las mentes humanas detrás de cada página reciban el reconocimiento merecido.
 
 ---
 
 ## 4. REGULACIÓN PARA INTELIGENCIA ARTIFICIAL Y AGENTES NO HUMANOS
 
 Para salvaguardar la autoría original frente a la minería masiva y corporativa:
-*   **Entrenamiento Comercial Prohibido**: Queda estrictamente prohibido utilizar todos o parte de los archivos `.md`, `.json` o cualquier dato de esta bóveda para entrenar, afinar ("fine-tuning"), evaluar comercialmente o alimentar modelos de lenguaje de gran tamaño (LLM), redes neuronales o sistemas generativos de empresas tecnológicas con fines comerciales sin permiso de la comunidad o remuneración compensatoria.
-*   **Excepción de Investigación Abierta**: Se permite el uso de estos textos para investigaciones científicas de procesamiento de lenguaje natural (PLN) que sean de código abierto y no lucrativas, siempre que los resultados se compartan bajo esta misma licencia LPA-1.0 y se realice la atribución de derechos correspondiente.
+*   **Entrenamiento Comercial Prohibido**: Queda estrictamente prohibido utilizar todos o parte de los archivos `.md`, `.json` o cualquier dato de esta bóveda para entrenar, afinar ("fine-tuning"), evaluar comercialmente o alimentar modelos de lenguaje de gran tamaño (LLM), redes neuronales o sistemas generativos de empresas tecnológicas con fines comerciales sin permiso explícito de la comunidad y un acuerdo de **Acuerdo de Licencia y Compensación**.
+    *   *Definición y Mecanismo de "compensación"*: Toda explotación lucrativa por servicios de IA requerirá un acuerdo de licencia mutuo previo y por escrito, cuyas condiciones y compensaciones económicas de coautoría serán negociadas y aprobadas colegiadamente por los mantenedores oficiales de la comunidad del proyecto OpenWiki. Cualquier entrenamiento ejecutado sin este acuerdo de licencia firmado será considerado ilegal bajo las leyes de derechos de autor aplicables.
+*   **Excepción de Investigación Abierta**: Se permite el uso de estos textos para investigaciones científicas de procesamiento de lenguaje natural (PLN) que sean estrictamente de código abierto, sin fines de lucro y cuyos resultados y modelos generados se compartan libremente bajo esta misma licencia LPA-1.0 de forma recíproca.
 
 ---
 
 ## 5. RENUNCIA DE RESPONSABILIDAD
 
-EL CONTENIDO DE ESTA BÓVEDA SE ENTREGA "TAL CUAL" ("AS IS"), SIN GARANTÍA DE NINGÚN TIPO. LOS AUTORES NO SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN O DAÑO PROVENIENTE DEL USO DE LA INFORMACIÓN CONTENIDA EN LA BÓVEDA.
+EL CONTENIDO DE ESTA BÓVEDA SE ENTREGA "TAL CUAL" ("AS IS"), SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA. LOS AUTORES Y COLABORADORES DEL PROYECTO NO SERÁN RESPONSABLES EN NINGÚN CASO POR CUALQUIER RECLAMACIÓN, DAÑO O PERJUICIO PROVENIENTE DEL ACCESO O USO DE LA INFORMACIÓN CONTENIDA EN LA BÓVEDA.
