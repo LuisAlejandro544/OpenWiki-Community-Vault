@@ -1,0 +1,23 @@
+# Historia de Android
+
+> **Información del Documento**
+> - **Autor:** Administrador OpenWiki
+> - **Categoría:** Tecnología
+> - **Fecha:** 14 de junio, 2026 - 15:00
+> - **Tiempo estimado de lectura:** 2 min
+
+## Sinopsis
+Una recapitulación histórica del sistema operativo móvil más popular y abierto del planeta: Android. Desde sus inicios como una pequeña compañía de software hasta su adquisición y propulsión global de la mano de Google y la Open Handset Alliance (OHA).
+
+## Contenido
+Android nació mucho antes de que Google lo adquiriese en el año 2005. Fue fundada originalmente por Andy Rubin, Rich Miner, Nick Sears y Chris White en 2003 con la idea inicial de crear un sistema operativo avanzado para cámaras fotográficas digitales. Al darse cuenta de que el mercado de cámaras estaba estancado, giraron su visión hacia los teléfonos móviles para competir contra Symbian y Windows Mobile.
+
+Tras la compra por parte de Google, el desarrollo se aceleró bajo el estandarte del núcleo de Linux. El 5 de noviembre de 2007 se fundó formalmente la Open Handset Alliance (OHA), un consorcio de múltiples empresas de software, hardware y telecomunicaciones dedicadas a fomentar los estándares abiertos para dispositivos móviles.
+
+El primer dispositivo comercial con Android fue el **HTC Dream (T-Mobile G1)**, lanzado el 23 de septiembre de 2008 de la mano de una interfaz física basada en teclado QWERTY deslizante y una pantalla táctil compacta. A partir de la versión 1.5, apodada "Cupcake", comenzó la deliciosa tendencia de nombrar cada versión mayor con dulces en orden alfabético, otorgándole al sistema operativo una identidad carismática e inconfundible.
+
+Hoy en día, Android se ejecuta en miles de millones de dispositivos, incluyendo teléfonos inteligentes, tabletas, televisores inteligentes, automóviles y dispositivos corporativos especiales, conservando siempre la filosofía del Android Open Source Project (AOSP) en su base.
+
+---
+
+🔍 *Aportado de manera libre y abierta mediante OpenWiki.*
