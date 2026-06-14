@@ -1,0 +1,39 @@
+# ==========================================
+# OpenWiki Community Vault GitIgnore File
+# ==========================================
+
+# Archivos del Sistema Operativo (Mac / Windows / Linux)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Carpetas de Entornos de Desarrollo e IDEs (Android Studio, VSCode, IntelliJ)
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+.history/
+
+# Archivos Temporales y de Respaldo
+*.bak
+*.tmp
+*.temp
+*#*
+.*.swp
+*.orig
+*.rej
+
+# Bloqueo de archivos locales accidentales de Obsidian (si lo usas como editor local)
+.obsidian/workspace
+.obsidian/workspace.json
