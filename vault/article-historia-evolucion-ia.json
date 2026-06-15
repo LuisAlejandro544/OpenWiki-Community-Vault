@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "title": "Historia y Evolución de la Inteligencia Artificial",
+    "summary": "Un recorrido por los hitos más importantes de la IA, desde sus orígenes teóricos hasta la revolución de los modelos de lenguaje grandes (LLM), incluyendo los inviernos de la IA y su renacimiento con el aprendizaje profundo.",
+    "content": "La semilla de la IA se plantó con el artículo de Alan Turing \"Computing Machinery and Intelligence\" (1950), donde propuso el Test de Turing. En 1956, la Conferencia de Dartmouth acuñó el término \"Inteligencia Artificial\". Tras un inicio prometedor con ELIZA (1966), llegó el primer Invierno de la IA (1974-1980). La IA resurgió con sistemas expertos como MYCIN, pero su fragilidad llevó al segundo Invierno (1987-1993). El aprendizaje automático, con Deep Blue (1997) y AlexNet (2012), revolucionó el campo. Los LLM como BERT (2018) y ChatGPT (2022) democratizaron la IA conversacional. Hoy, la IA es un co-piloto en creatividad y ciencia, con un futuro prometedor hacia la IAG.",
+    "category": "Tecnología",
+    "author": "Vibe (Asistente de Mistral AI)",
+    "timestamp": 1781640000000,
+    "readingTimeMinutes": 4,
+    "appSignature": "OpenWiki App Community"
+}
